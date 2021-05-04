@@ -250,11 +250,11 @@
 
     <!-- Content -->
     <!-- Title of the collection of wallpapers stored on the device itself. [CHAR LIMIT=30] -->
-    <string name="on_device_wallpapers_category_title">On-device wallpapers</string>
+    <string name="corvus_wallpapers_category_title">Corvus wallpapers</string>
 
     <!-- Short title of the collection of wallpapers stored on the device itself.
          [CHAR LIMIT=30] -->
-    <string name="on_device_wallpapers_category_title_desktop">On device</string>
+    <string name="corvus_wallpapers_category_title_desktop">Corvus</string>
 
     <!-- Title of a wallpaper that comes with the Android device. [CHAR LIMIT=30] -->
     <string name="on_device_wallpaper_title">Android wallpaper</string>
